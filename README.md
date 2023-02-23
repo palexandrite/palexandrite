@@ -2,7 +2,7 @@
 
 My name is Alexander Bulatov.
 
-I have a profesioncy in JavaScript, PHP, Yii2, Laravel, ReactJS, Apache, bush.
+I have profesioncy in JavaScript, PHP, Yii2, Laravel, ReactJS, Apache, bush.
 
 But I have never stoped to deep in learning 🦸‍♂️ what I have learnt thus far.
 
