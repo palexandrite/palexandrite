@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-My name is Alexander Bulatov.
+My name is Savva.
 
-I have profesioncy in JavaScript, PHP, Yii2, Laravel, ReactJS, Apache, bush.
+I am an accomplished software developer.
 
-But I have never stoped to deep in learning 🦸‍♂️ what I have learnt thus far.
+I am using Vanilla JavaScript with a mix of VueJS at the frontend to make the best interfaces for people.
+
+I am backing the frontend with PHP, Golang, Kotlin (with its brother — Java), and plus C++/C programming languages.
+
+Also I use some technologies in addition such as Yii2, Laravel, Apache, Nginx, and bush.
+
+And I have never stoped to deep in learning 🦸‍♂️ what I have learnt thus far.
 
 🤸🏻‍♂️ How said Bruce Lee, "I am not afraid who knows 1000 techniques, I'm afraid who did 1000 times one technique".
 
