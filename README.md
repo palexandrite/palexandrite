@@ -19,7 +19,7 @@ And I have never stoped to deep in learning 🦸‍♂️ what I have learnt thu
 And because of that 🌱 I’m currently learning more about tricks of programming.
 
 📫 How to reach me: 
-email
+<br>
 ialexander.bulatov@gmail.com
 
 ---
