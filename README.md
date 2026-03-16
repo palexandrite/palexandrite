@@ -18,8 +18,9 @@ And I have never stoped to deep in learning 🦸‍♂️ what I have learnt thu
 
 And because of that 🌱 I’m currently learning more about PHP and its environment.
 
-📫 How to reach me: https://t.me/it_bulatovs_studio
-
+📫 How to reach me: 
+email
+ialexander.bulatov@gmail.com
 
 ---
 
