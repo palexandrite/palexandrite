@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Savva.
+My name is Alexander Bulatov.
+
+I write under a pseudonym —> Savva.
 
 I am an accomplished software developer.
 
