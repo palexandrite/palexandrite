@@ -16,7 +16,7 @@ And I have never stoped to deep in learning 🦸‍♂️ what I have learnt thu
 
 🤸🏻‍♂️ How said Bruce Lee, "I am not afraid who knows 1000 techniques, I'm afraid who did 1000 times one technique".
 
-And because of that 🌱 I’m currently learning more about PHP and its environment.
+And because of that 🌱 I’m currently learning more about tricks of programming.
 
 📫 How to reach me: 
 email
